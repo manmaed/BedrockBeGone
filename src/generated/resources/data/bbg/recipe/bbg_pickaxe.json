@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "o": {
+      "item": "minecraft:obsidian"
+    },
+    "p": {
+      "item": "minecraft:diamond_pickaxe"
+    }
+  },
+  "pattern": [
+    "ooo",
+    "opo",
+    "ooo"
+  ],
+  "result": {
+    "count": 1,
+    "id": "bbg:bbg_pickaxe"
+  }
+}

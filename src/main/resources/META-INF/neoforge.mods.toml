@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="All rights reserved"
+issueTrackerURL = "https://github.com/manmaed/BedrockBeGone/issues"
+[[mods]]
+modId="bbg"
+version="${version}"
+displayName="Bedrock Be Gone"
+updateJSONURL="https://raw.githubusercontent.com/manmaed/BedrockBeGone/main/neo/update.json"
+authors="manmaed"
+logoFile="bbg.logo.png"
+description='''Make a pickaxe that can remove that pesky bedrock'''
+[[dependencies.antiblocksrechiseled]]
+modId="neoforge"
+required=true
+versionRange="[21.0.0-beta,)"
+ordering="NONE"
+side="BOTH"
