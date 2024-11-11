@@ -9,7 +9,7 @@ Bedrock Be Gone
 
 | Curseforge | Modrinth |
 | -| - |
-| [![Curseforge Downloads](https://cf.way2muchnoise.eu/1137497.svg)](https://legacy.curseforge.com/minecraft/mc-mods/bedrock-be-gone) | [![Modrinth Downloads](https://img.shields.io/modrinth/dt/)](https://modrinth.com/project/bedrock-be-gone)|
+| [![Curseforge Downloads](https://cf.way2muchnoise.eu/1137497.svg)](https://legacy.curseforge.com/minecraft/mc-mods/bedrock-be-gone) | [![Modrinth Downloads](https://img.shields.io/modrinth/dt/VvdWQSMa)](https://modrinth.com/project/bedrock-be-gone)|
 | Available Versions | Available Versions  
 | TBA |  TBA
 
