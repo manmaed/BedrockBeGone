@@ -1,0 +1,17 @@
+{
+    "homepage": "https://legacy.curseforge.com/minecraft/mc-mods/bedrock-be-gone",
+    "1.21.1": {
+      "1.1": "Mod Init"
+    },
+    "1.21": {
+      "1.1": "Mod Init"
+    },
+    "promos": {
+      "1.21.3-latest": "1.1",
+      "1.21.3-recommended": "1.1",
+      "1.21.1-latest": "1.1.",
+      "1.21.1-recommended": "1.1",
+      "1.21-latest": "1.1",
+      "1.21-recommended": "1.1"
+    }
+  }
