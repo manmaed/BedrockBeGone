@@ -3,7 +3,7 @@ Bedrock Be Gone
 
 ![](https://cdn.manmaed.net/devins-badges/neoforge_vector.svg)
 
-[![](https://cdn.manmaed.net/devins-badges/curseforge_vector.svg)](https://legacy.curseforge.com/minecraft/mc-mods/bedrock-be-gone) [![](https://cdn.manmaed.net/devins-badges/modrinth_vector.svg)](https://modrinth.com/project/bedrock-be-gone)
+[![](https://cdn.manmaed.net/devins-badges/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/bedrock-be-gone) [![](https://cdn.manmaed.net/devins-badges/modrinth_vector.svg)](https://modrinth.com/project/bedrock-be-gone)
 
 
 
